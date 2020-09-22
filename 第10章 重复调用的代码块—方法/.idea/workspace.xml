@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e7f19a2-bd12-4215-9bff-bddd97de5f8b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hoXIE6H6QE2XRRviuB1J68LmXS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Demo04" />
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Demo06" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Exercise10_1">
+    <configuration name="ArrReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo06.ArrReturn" />
+      <module name="第10章 重复调用的代码块—方法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo06.ArrayMethod" />
+      <module name="第10章 重复调用的代码块—方法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraySortUsingPackage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo06.ArraySortUsingPackage" />
+      <module name="第10章 重复调用的代码块—方法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise10_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo07.Exercise10_1" />
+      <module name="第10章 重复调用的代码块—方法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise10_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo07.Exercise10_2" />
+      <module name="第10章 重复调用的代码块—方法" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exercise10_1" />
+        <item itemvalue="Application.Exercise10_2" />
+        <item itemvalue="Application.ArraySortUsingPackage" />
+        <item itemvalue="Application.ArrayMethod" />
+        <item itemvalue="Application.ArrReturn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e7f19a2-bd12-4215-9bff-bddd97de5f8b" name="Default Changelist" comment="" />
+      <created>1600678338711</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600678338711</updated>
+      <workItem from="1600678339895" duration="18547000" />
+      <workItem from="1600765125768" duration="5714000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="590" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1600768838421">
+      <screen x="0" y="0" width="1520" height="844" />
+    </state>
+    <state x="590" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1520.844@0.0.1520.844" timestamp="1600768838421" />
+    <state x="659" y="147" key="#com.intellij.ide.util.MemberChooser/0.0.1699.881@0.0.1699.881" timestamp="1600682233136" />
+    <state x="541" y="334" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1600753053221">
+      <screen x="0" y="0" width="1520" height="844" />
+    </state>
+    <state x="541" y="334" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1520.844@0.0.1520.844" timestamp="1600753053221" />
+    <state width="1478" height="266" key="GridCell.Tab.0.bottom" timestamp="1600770899680">
+      <screen x="0" y="0" width="1520" height="844" />
+    </state>
+    <state width="1478" height="227" key="GridCell.Tab.0.bottom/0.0.1520.807@0.0.1520.807" timestamp="1600741167784" />
+    <state width="1478" height="266" key="GridCell.Tab.0.bottom/0.0.1520.844@0.0.1520.844" timestamp="1600770899680" />
+    <state width="1657" height="227" key="GridCell.Tab.0.bottom/0.0.1699.881@0.0.1699.881" timestamp="1600682867825" />
+    <state width="1478" height="266" key="GridCell.Tab.0.center" timestamp="1600770899680">
+      <screen x="0" y="0" width="1520" height="844" />
+    </state>
+    <state width="1478" height="227" key="GridCell.Tab.0.center/0.0.1520.807@0.0.1520.807" timestamp="1600741167784" />
+    <state width="1478" height="266" key="GridCell.Tab.0.center/0.0.1520.844@0.0.1520.844" timestamp="1600770899680" />
+    <state width="1657" height="227" key="GridCell.Tab.0.center/0.0.1699.881@0.0.1699.881" timestamp="1600682867825" />
+    <state width="1478" height="266" key="GridCell.Tab.0.left" timestamp="1600770899680">
+      <screen x="0" y="0" width="1520" height="844" />
+    </state>
+    <state width="1478" height="227" key="GridCell.Tab.0.left/0.0.1520.807@0.0.1520.807" timestamp="1600741167784" />
+    <state width="1478" height="266" key="GridCell.Tab.0.left/0.0.1520.844@0.0.1520.844" timestamp="1600770899680" />
+    <state width="1657" height="227" key="GridCell.Tab.0.left/0.0.1699.881@0.0.1699.881" timestamp="1600682867825" />
+    <state width="1478" height="266" key="GridCell.Tab.0.right" timestamp="1600770899680">
+      <screen x="0" y="0" width="1520" height="844" />
+    </state>
+    <state width="1478" height="227" key="GridCell.Tab.0.right/0.0.1520.807@0.0.1520.807" timestamp="1600741167784" />
+    <state width="1478" height="266" key="GridCell.Tab.0.right/0.0.1520.844@0.0.1520.844" timestamp="1600770899680" />
+    <state width="1657" height="227" key="GridCell.Tab.0.right/0.0.1699.881@0.0.1699.881" timestamp="1600682867825" />
+    <state width="1478" height="266" key="GridCell.Tab.1.bottom" timestamp="1600770899680">
+      <screen x="0" y="0" width="1520" height="844" />
+    </state>
+    <state width="1478" height="266" key="GridCell.Tab.1.bottom/0.0.1520.844@0.0.1520.844" timestamp="1600770899680" />
+    <state width="1478" height="266" key="GridCell.Tab.1.center" timestamp="1600770899680">
+      <screen x="0" y="0" width="1520" height="844" />
+    </state>
+    <state width="1478" height="266" key="GridCell.Tab.1.center/0.0.1520.844@0.0.1520.844" timestamp="1600770899680" />
+    <state width="1478" height="266" key="GridCell.Tab.1.left" timestamp="1600770899680">
+      <screen x="0" y="0" width="1520" height="844" />
+    </state>
+    <state width="1478" height="266" key="GridCell.Tab.1.left/0.0.1520.844@0.0.1520.844" timestamp="1600770899680" />
+    <state width="1478" height="266" key="GridCell.Tab.1.right" timestamp="1600770899680">
+      <screen x="0" y="0" width="1520" height="844" />
+    </state>
+    <state width="1478" height="266" key="GridCell.Tab.1.right/0.0.1520.844@0.0.1520.844" timestamp="1600770899680" />
+    <state x="392" y="77" key="SettingsEditor" timestamp="1600682009386">
+      <screen x="0" y="0" width="1699" height="881" />
+    </state>
+    <state x="392" y="77" key="SettingsEditor/0.0.1699.881@0.0.1699.881" timestamp="1600682009386" />
+  </component>
+</project>

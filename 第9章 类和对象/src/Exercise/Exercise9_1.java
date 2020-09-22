@@ -19,7 +19,7 @@ class Person {
 
 public class Exercise9_1 {
     public static void main(String[] args) {
-        Person p[] = {
+        Person[] p = {
                 new Person("Alex", 25, true),
                 new Person("Bill", 30, false),
                 new Person("Candy", 40, true)

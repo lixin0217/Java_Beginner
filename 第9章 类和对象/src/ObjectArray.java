@@ -6,7 +6,7 @@ public class ObjectArray {
     public static void main(String[] args) {
 
         //用静态声明方式声明了Person类的对象数组p，它包含了3个对象。
-        Person p[] = {
+        Person[] p = {
                 new Person("Alex", 25),
                 new Person("Bill", 26),
                 new Person("Carol", 30),
