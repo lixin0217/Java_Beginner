@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6076889f-c57f-45db-ba33-34a687498e2b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1htVBCMmsX2baLOl9AgEyu9CXsM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Demo07" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor.code.editing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alex.li01\Documents\GitHub\Java_Beginner\第12章 类的封装、继承与多态\src\Demo07" />
+      <recent name="C:\Users\alex.li01\Documents\GitHub\Java_Beginner\第12章 类的封装、继承与多态\src\Demo05" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Exercise12_2">
+    <configuration name="DownCastTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo10.DownCastTest" />
+      <module name="第12章 类的封装、继承与多态" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise12_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo11.Exercise12_1" />
+      <module name="第12章 类的封装、继承与多态" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise12_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo11.Exercise12_2" />
+      <module name="第12章 类的封装、继承与多态" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise12_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo11.Exercise12_3" />
+      <module name="第12章 类的封装、继承与多态" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HideSubClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo10.HideSubClass" />
+      <module name="第12章 类的封装、继承与多态" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exercise12_2" />
+        <item itemvalue="Application.Exercise12_3" />
+        <item itemvalue="Application.Exercise12_1" />
+        <item itemvalue="Application.HideSubClass" />
+        <item itemvalue="Application.DownCastTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6076889f-c57f-45db-ba33-34a687498e2b" name="Default Changelist" comment="" />
+      <created>1600830238242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600830238242</updated>
+      <workItem from="1600830239586" duration="21136000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="66" key="#com.intellij.ide.util.MemberChooser" timestamp="1600851233128">
+      <screen x="0" y="0" width="1280" height="756" />
+    </state>
+    <state x="449" y="66" key="#com.intellij.ide.util.MemberChooser/0.0.1280.756@0.0.1280.756" timestamp="1600851233128" />
+    <state x="424" y="125" key="FileChooserDialogImpl" timestamp="1600839811068">
+      <screen x="0" y="0" width="1280" height="756" />
+    </state>
+    <state x="424" y="125" key="FileChooserDialogImpl/0.0.1280.756@0.0.1280.756" timestamp="1600839811068" />
+    <state width="1238" height="231" key="GridCell.Tab.0.bottom" timestamp="1600856087270">
+      <screen x="0" y="0" width="1280" height="756" />
+    </state>
+    <state width="1238" height="231" key="GridCell.Tab.0.bottom/0.0.1280.756@0.0.1280.756" timestamp="1600856087270" />
+    <state width="1238" height="231" key="GridCell.Tab.0.center" timestamp="1600856087270">
+      <screen x="0" y="0" width="1280" height="756" />
+    </state>
+    <state width="1238" height="231" key="GridCell.Tab.0.center/0.0.1280.756@0.0.1280.756" timestamp="1600856087270" />
+    <state width="1238" height="231" key="GridCell.Tab.0.left" timestamp="1600856087270">
+      <screen x="0" y="0" width="1280" height="756" />
+    </state>
+    <state width="1238" height="231" key="GridCell.Tab.0.left/0.0.1280.756@0.0.1280.756" timestamp="1600856087270" />
+    <state width="1238" height="231" key="GridCell.Tab.0.right" timestamp="1600856087270">
+      <screen x="0" y="0" width="1280" height="756" />
+    </state>
+    <state width="1238" height="231" key="GridCell.Tab.0.right/0.0.1280.756@0.0.1280.756" timestamp="1600856087270" />
+    <state width="1238" height="231" key="GridCell.Tab.1.bottom" timestamp="1600856087270">
+      <screen x="0" y="0" width="1280" height="756" />
+    </state>
+    <state width="1238" height="231" key="GridCell.Tab.1.bottom/0.0.1280.756@0.0.1280.756" timestamp="1600856087270" />
+    <state width="1238" height="231" key="GridCell.Tab.1.center" timestamp="1600856087270">
+      <screen x="0" y="0" width="1280" height="756" />
+    </state>
+    <state width="1238" height="231" key="GridCell.Tab.1.center/0.0.1280.756@0.0.1280.756" timestamp="1600856087270" />
+    <state width="1238" height="231" key="GridCell.Tab.1.left" timestamp="1600856087270">
+      <screen x="0" y="0" width="1280" height="756" />
+    </state>
+    <state width="1238" height="231" key="GridCell.Tab.1.left/0.0.1280.756@0.0.1280.756" timestamp="1600856087270" />
+    <state width="1238" height="231" key="GridCell.Tab.1.right" timestamp="1600856087270">
+      <screen x="0" y="0" width="1280" height="756" />
+    </state>
+    <state width="1238" height="231" key="GridCell.Tab.1.right/0.0.1280.756@0.0.1280.756" timestamp="1600856087270" />
+    <state x="183" y="14" key="SettingsEditor" timestamp="1600850702707">
+      <screen x="0" y="0" width="1280" height="756" />
+    </state>
+    <state x="183" y="14" key="SettingsEditor/0.0.1280.756@0.0.1280.756" timestamp="1600850702707" />
+    <state x="303" y="77" width="672" height="678" key="search.everywhere.popup" timestamp="1600855356653">
+      <screen x="0" y="0" width="1280" height="756" />
+    </state>
+    <state x="303" y="77" width="672" height="678" key="search.everywhere.popup/0.0.1280.756@0.0.1280.756" timestamp="1600855356653" />
+  </component>
+</project>
