@@ -34,7 +34,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Demo01" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -98,6 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600857915496</updated>
       <workItem from="1600857916687" duration="3470000" />
+      <workItem from="1600914179292" duration="591000" />
     </task>
     <servers />
   </component>
