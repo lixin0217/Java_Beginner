@@ -41,13 +41,13 @@
       <recent name="C:\Users\alex.li01\Documents\GitHub\Java_Beginner\第13章 抽象类与接口\src\Demo01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TemplateMethod">
-    <configuration name="AbstractClassDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo01.AbstractClassDemo" />
+  <component name="RunManager" selected="Application.Exercise13_2">
+    <configuration name="Exercise13_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise.Exercise13_1" />
       <module name="第13章 抽象类与接口" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Demo02.*" />
+          <option name="PATTERN" value="Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AbstractConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo02.AbstractConstructor" />
+    <configuration name="Exercise13_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise.Exercise13_2" />
       <module name="第13章 抽象类与接口" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Demo02.*" />
+          <option name="PATTERN" value="Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,24 +68,63 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TemplateMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo02.TemplateMethod" />
+    <configuration name="Factory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo04.Factory" />
       <module name="第13章 抽象类与接口" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Demo02.*" />
+          <option name="PATTERN" value="Demo04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo04.ProxyTest" />
+      <module name="第13章 抽象类与接口" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo04.SimpleFactory" />
+      <module name="第13章 抽象类与接口" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Demo04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TemplateMethod" />
-        <item itemvalue="Application.AbstractConstructor" />
-        <item itemvalue="Application.AbstractClassDemo" />
+        <item itemvalue="Application.Exercise13_2" />
+        <item itemvalue="Application.Exercise13_1" />
+        <item itemvalue="Application.ProxyTest" />
+        <item itemvalue="Application.Factory" />
+        <item itemvalue="Application.SimpleFactory" />
       </list>
     </recent_temporary>
   </component>
@@ -98,7 +137,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600857915496</updated>
       <workItem from="1600857916687" duration="3470000" />
-      <workItem from="1600914179292" duration="591000" />
+      <workItem from="1600914179292" duration="12285000" />
     </task>
     <servers />
   </component>
@@ -107,26 +146,26 @@
       <screen x="0" y="0" width="1280" height="756" />
     </state>
     <state x="385" y="207" key="#Notifications/0.0.1280.756@0.0.1280.756" timestamp="1600857935831" />
-    <state x="449" y="90" key="#com.intellij.ide.util.MemberChooser" timestamp="1600858736974">
+    <state x="449" y="90" key="#com.intellij.ide.util.MemberChooser" timestamp="1600931245084">
       <screen x="0" y="0" width="1280" height="756" />
     </state>
-    <state x="449" y="90" key="#com.intellij.ide.util.MemberChooser/0.0.1280.756@0.0.1280.756" timestamp="1600858736974" />
-    <state width="1238" height="185" key="GridCell.Tab.0.bottom" timestamp="1600861273442">
+    <state x="449" y="90" key="#com.intellij.ide.util.MemberChooser/0.0.1280.756@0.0.1280.756" timestamp="1600931245084" />
+    <state width="1238" height="197" key="GridCell.Tab.0.bottom" timestamp="1600935196856">
       <screen x="0" y="0" width="1280" height="756" />
     </state>
-    <state width="1238" height="185" key="GridCell.Tab.0.bottom/0.0.1280.756@0.0.1280.756" timestamp="1600861273442" />
-    <state width="1238" height="185" key="GridCell.Tab.0.center" timestamp="1600861273442">
+    <state width="1238" height="197" key="GridCell.Tab.0.bottom/0.0.1280.756@0.0.1280.756" timestamp="1600935196856" />
+    <state width="1238" height="197" key="GridCell.Tab.0.center" timestamp="1600935196856">
       <screen x="0" y="0" width="1280" height="756" />
     </state>
-    <state width="1238" height="185" key="GridCell.Tab.0.center/0.0.1280.756@0.0.1280.756" timestamp="1600861273442" />
-    <state width="1238" height="185" key="GridCell.Tab.0.left" timestamp="1600861273442">
+    <state width="1238" height="197" key="GridCell.Tab.0.center/0.0.1280.756@0.0.1280.756" timestamp="1600935196856" />
+    <state width="1238" height="197" key="GridCell.Tab.0.left" timestamp="1600935196856">
       <screen x="0" y="0" width="1280" height="756" />
     </state>
-    <state width="1238" height="185" key="GridCell.Tab.0.left/0.0.1280.756@0.0.1280.756" timestamp="1600861273442" />
-    <state width="1238" height="185" key="GridCell.Tab.0.right" timestamp="1600861273442">
+    <state width="1238" height="197" key="GridCell.Tab.0.left/0.0.1280.756@0.0.1280.756" timestamp="1600935196856" />
+    <state width="1238" height="197" key="GridCell.Tab.0.right" timestamp="1600935196856">
       <screen x="0" y="0" width="1280" height="756" />
     </state>
-    <state width="1238" height="185" key="GridCell.Tab.0.right/0.0.1280.756@0.0.1280.756" timestamp="1600861273442" />
+    <state width="1238" height="197" key="GridCell.Tab.0.right/0.0.1280.756@0.0.1280.756" timestamp="1600935196856" />
     <state x="303" y="77" width="672" height="678" key="search.everywhere.popup" timestamp="1600858845457">
       <screen x="0" y="0" width="1280" height="756" />
     </state>
